@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "burger",
+      "description": "del delddd",
+      "price": 10
+    },
+    {
+      "id": 2,
+      "name": "sandwich",
+      "description": "del del",
+      "price": 12
+    },
+    {
+      "id": 3,
+      "name": "fries",
+      "description": "dl",
+      "price": 3
+    }
+  ]
+}
