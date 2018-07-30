@@ -2,21 +2,21 @@
   "menu": [
     {
       "id": 1,
-      "name": "burger",
-      "description": "del delddd",
-      "price": 10
+      "name": "Chicken C",
+      "description": "3 grilled chicken breasts served with coleslaw salad, corn & french fries",
+      "price": 18500
     },
     {
       "id": 2,
-      "name": "sandwich",
-      "description": "del del",
-      "price": 12
+      "name": "Steak C",
+      "description": "Grilled beef filet served with corn, coleslaw salad",
+      "price": 18500
     },
     {
       "id": 3,
-      "name": "fries",
-      "description": "dl",
-      "price": 3
+      "name": "Capital C",
+      "description": "Grilled chicken breast, beef filet, frankfurter served with corn, coleslaw salad",
+      "price": 20000
     }
   ]
 }
